@@ -10,4 +10,4 @@ header:
 ---
 
 
-## Welcome to our site!
+We are a research lab focused on developing optical imaging technologies and methods that can be applied in Neuroscience and Medicine. 
