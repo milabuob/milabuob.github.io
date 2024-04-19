@@ -2,8 +2,10 @@
 layout: splash    # change to page to get rid of the blog
 classes: wide
 title: Home
+excerpt: "The Medical Imaging Lab"
 header:
-  - image: /assets/images/group-photo-2024.jpg
+  overlay_color: "#333"
 ---
 
 
+## Welcome to our site!
