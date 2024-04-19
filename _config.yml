@@ -24,8 +24,8 @@ description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /docs/assets/images/milogo.png  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /docs/assets/images/milogo.png  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "milogo.png"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "milogo.png"  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -141,14 +141,14 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "GitLab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    #- label: "Bitbucket"
+      # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url:
 
 
