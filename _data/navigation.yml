@@ -1,11 +1,17 @@
 # main links
 main:
+  - title: "People"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Tools"
-    url: /year-archive/
   - title: "Publications"
     url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Education"
+    url: /education/
+  - title: "Tools"
+    url: /year-archive/
+  - title: "Outreach"
+    url: /outreach/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
