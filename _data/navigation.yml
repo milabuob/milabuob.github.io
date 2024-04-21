@@ -3,15 +3,15 @@ main:
   - title: "People"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /archive-layout-with-content/
   - title: "Education"
-    url: /education/
+    url: /category-archive
   - title: "Tools"
-    url: /year-archive/
+    url: /edge-case/
   - title: "Outreach"
-    url: /outreach/
+    url: /home/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
