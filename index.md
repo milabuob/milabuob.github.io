@@ -11,8 +11,8 @@ header:
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/path/to/image1.jpg" alt="Image 1" class="img-fluid">
-    <img src="/path/to/image2.jpg" alt="Image 2" class="img-fluid">
+    <img src="/assets/images/group-photo-2024.jpg" alt="Group Photo 2024" class="img-fluid">
+    <img src="/assets/images/milogo.png" alt="Logo" class="img-fluid">
     <!-- Add more images as needed -->
   </div>
   <div class="col-md-6">
