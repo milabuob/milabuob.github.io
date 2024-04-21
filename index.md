@@ -4,22 +4,26 @@ title: "The Medical Imaging Lab"
 classes: wide
 excerpt: "Revolutionizing Neuroscience and Medicine through Innovative Optical Imaging"
 header:
-  #overlay_image: /assets/images/unsplash-image-1.jpg
-  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   overlay_color: "#333"
+  #overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  #overlay_image: /assets/images/unsplash-image-1.jpg
+  #actions:
+  #  - label: "Learn more"
+  #  - url: "/about/"
+  #caption: "Photo credit: "
+feature_row:
+  - image_path: /assets/images/group-photo-2024.jpg
+    alt: "Group Photo"
+    title: "Group Photo 2024"
+    excerpt: "Let's see what happens here"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-<div class="row">
-  <div class="col-md-6">
-    <img src="/assets/images/group-photo-2024.jpg" alt="Group Photo 2024" class="img-fluid">
-    <img src="/assets/images/milogo.png" alt="Logo" class="img-fluid">
-    <!-- Add more images as needed -->
-  </div>
-  <div class="col-md-6">
-    <p>We are a research lab focused on developing optical imaging technologies and methods that can be applied in Neuroscience and Medicine. </p>
-    <!-- Add more text or elements as needed -->
-  </div>
-</div>
+
+We are a research lab focused on developing optical imaging technologies and methods that can be applied in Neuroscience and Medicine.
+
+{% include feature_row id = "feature_row" type = "center" %}
 
 
 ## Latest News
