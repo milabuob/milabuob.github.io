@@ -133,6 +133,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/milabuob" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
