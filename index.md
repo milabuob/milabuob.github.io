@@ -11,10 +11,20 @@ header:
   #  - label: "Learn more"
   #  - url: "/about/"
   #caption: "Photo credit: "
+  feature_row:
+  - image_path: /assets/images/group-photo-2024.jpg
+    alt: "Group Photo"
+    title: "Group Photo 2024"
+    excerpt: "Let's see what happens here"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 
 We are a research lab focused on developing optical imaging technologies and methods that can be applied in Neuroscience and Medicine.
+
+{% include feature_row id = "feature_row" type = "center" %}
+
 
 ## Latest News
 Link to blog
