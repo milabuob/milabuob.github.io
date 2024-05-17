@@ -1,3 +1,4 @@
-source "https://rubygems.org"
-gem 'kramdown-parser-gfm'
-gemspec
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'minimal-mistakes-jekyll'
+

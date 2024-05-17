@@ -1,9 +1,9 @@
-- name: John Doe
-  position: Principal Investigator
-  photo: /assets/images/john_doe.jpg
+- name: Rickson Mesquita
+  position: Associate Professor
+  photo: /assets/images/people/rmesquita.jpeg
   bio: "John is the principal investigator leading research in neuroimaging and computational neuroscience."
-  twitter: https://twitter.com/johndoe
   linkedin: https://www.linkedin.com/in/johndoe
+  website: https://rcmesquita.github.io 
   github: https://github.com/johndoe
 
 - name: Jane Smith

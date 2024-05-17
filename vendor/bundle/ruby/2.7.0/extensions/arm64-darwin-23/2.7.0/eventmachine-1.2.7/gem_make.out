@@ -1,0 +1,16 @@
+current directory: /Users/rickson/Library/CloudStorage/OneDrive-UniversityofBirmingham/research/outreach/milabuob.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/rickson/.rbenv/versions/2.7.2/bin/ruby -I /Users/rickson/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20240517-77075-1txgf4m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rickson/Library/CloudStorage/OneDrive-UniversityofBirmingham/research/outreach/milabuob.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/rickson/Library/CloudStorage/OneDrive-UniversityofBirmingham/research/outreach/milabuob.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/rickson/Library/CloudStorage/OneDrive-UniversityofBirmingham/research/outreach/milabuob.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240517-77075-20pix6
