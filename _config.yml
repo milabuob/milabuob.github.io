@@ -192,6 +192,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 
 # Conversion
 markdown: kramdown
