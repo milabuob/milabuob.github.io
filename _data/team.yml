@@ -1,0 +1,23 @@
+- name: John Doe
+  position: Principal Investigator
+  photo: /assets/images/john_doe.jpg
+  bio: "John is the principal investigator leading research in neuroimaging and computational neuroscience."
+  twitter: https://twitter.com/johndoe
+  linkedin: https://www.linkedin.com/in/johndoe
+  github: https://github.com/johndoe
+
+- name: Jane Smith
+  position: PhD Student
+  photo: /assets/images/jane_smith.jpg
+  bio: "Jane's research focuses on machine learning applications in neuroscience."
+  twitter: https://twitter.com/janesmith
+  linkedin: https://www.linkedin.com/in/janesmith
+  github: https://github.com/janesmith
+
+- name: Emily Brown
+  position: Postdoctoral Researcher
+  photo: /assets/images/emily_brown.jpg
+  bio: "Emily is a postdoctoral researcher with expertise in advanced neuroimaging techniques."
+  twitter: https://twitter.com/emilybrown
+  linkedin: https://www.linkedin.com/in/emilybrown
+  github: https://github.com/emilybrown
