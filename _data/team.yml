@@ -1,23 +1,55 @@
+- name: Hamid Dehghani
+  position: Professor
+  photo: /assets/images/people/hdehghani.jpeg
+  bio: "Prof. Dehghani is interested in non-invasive imaging methods and measurement of physiological information 
+  from biological tissue. His research ranges from development of diffuse optical techniques, to computational tools 
+  assisting image guided interventions."
+  #linkedin: https://www.linkedin.com/in/johndoe
+  profile: https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/dehghani-hamid
+  # github: https://github.com/johndoe 
+
 - name: Rickson Mesquita
   position: Associate Professor
   photo: /assets/images/people/rmesquita.jpeg
-  bio: "John is the principal investigator leading research in neuroimaging and computational neuroscience."
-  linkedin: https://www.linkedin.com/in/johndoe
+  bio: "Dr. Mesquita is interested in developing and combining instrumentation, computational methods, and biophysical modeling 
+  for functional neuroimaging, with a particular emphasis on diffuse optics. His research is focused on translating these
+  methods into clinical practice and utilising them to understand brain function."
+  linkedin: https://www.linkedin.com/in/rickson-mesquita/
   website: https://rcmesquita.github.io 
-  github: https://github.com/johndoe
+  # github: https://github.com/johndoe 
 
-- name: Jane Smith
-  position: PhD Student
-  photo: /assets/images/jane_smith.jpg
-  bio: "Jane's research focuses on machine learning applications in neuroscience."
-  twitter: https://twitter.com/janesmith
-  linkedin: https://www.linkedin.com/in/janesmith
-  github: https://github.com/janesmith
+- name: Felipe Orihuela-Espina
+  position: Associate Professor
+  photo: /assets/images/people/forihuela-espina.jpeg
+  bio: "Dr. Orihuela-Espina's research interest is in fNIRS data analysis and interpretation of neuroimages. This involves 
+  multidisciplinary research from computing (mainly) and mathematics and statistics. It also requires notions 
+  of physics (optics) and neuroscience. He is interested in applyting these neuroimaging analysis and interpretation skills 
+  to different topics, including; neurorehabilitation."
+  # linkedin: https://www.linkedin.com/in/rickson-mesquita/
+  website: https://more.bham.ac.uk/cnl/
+  # github: https://github.com/johndoe 
 
-- name: Emily Brown
-  position: Postdoctoral Researcher
-  photo: /assets/images/emily_brown.jpg
-  bio: "Emily is a postdoctoral researcher with expertise in advanced neuroimaging techniques."
-  twitter: https://twitter.com/emilybrown
-  linkedin: https://www.linkedin.com/in/emilybrown
-  github: https://github.com/emilybrown
+- name: Samuel Montero-Hernandez
+  position: Assistant Professor
+  photo: /assets/images/people/smontero-hernandez.jpg
+  bio: "Dr. Montero-Hernandez's work primarily involves the development and application of computational models for causal discovery 
+  algorithms. In addition, Dr. Montero-Hernandez has an interest in brain connectivity methods, specifically utilizing functional 
+  near-infrared spectroscopy (fNIRS) data. He also contributes to developing algorithms for the quality control of fNIRS signals, 
+  ensuring the integrity and precision of the data used in his research. Recently, Dr. Montero-Hernandez’s investigation has found 
+  practical applications in resting state data analysis and pain management investigations."
+  #twitter: https://twitter.com/janesmith
+  #linkedin: https://www.linkedin.com/in/janesmith
+  #github: https://github.com/janesmith
+
+- name: Jiaming Cao
+  position: Research Fellow
+  photo: /assets/images/people/jcao.jpeg
+  bio: "Jiaming's research mainly concerns with algorithmic improvements to enable high accuracy imaging using DOT and EEG. 
+  He is currently working on the BioSMART project, where he is developing a deep learning based method for fluorescence DOT imaging 
+  of bioreactors. He is also a maintainer of the NIRFASTer toolbox. Before joining MI lab, Jiaming obtained his PhD degree in 
+  Biomedical Engineering at Carnegie Mellon University, advised by Prof. Jana Kainerstorfer and Prof. Pulkit Grover.
+  Jiaming’s interest in optics and imaging also extends to photography, especially of the analog kind. He also likes to explore 
+  cooking different cuisines and is a guitar player."
+  #twitter: https://twitter.com/emilybrown
+  #linkedin: https://www.linkedin.com/in/emilybrown
+  #github: https://github.com/emilybrown

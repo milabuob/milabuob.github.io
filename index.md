@@ -1,5 +1,5 @@
 ---
-layout: splash    # change to page to get rid of the blog
+layout: single    # change to page to get rid of the blog
 title: "The Medical Imaging Lab"
 classes: wide
 excerpt: "Revolutionizing Neuroscience and Medicine through Innovative Optical Imaging"

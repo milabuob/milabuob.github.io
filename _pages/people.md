@@ -1,9 +1,21 @@
 ---
+<<<<<<< HEAD
 layout: single
 title: "Our Team"
 permalink: /people/
 ---
 
+=======
+layout: splash
+title: "Our Team"
+classes: wide
+permalink: /people/
+---
+
+<p> &nbsp;</p>
+<h1>Our Team </h1>
+
+>>>>>>> fab3904 (add team members)
 <div class="team-photo">
   <img src="/assets/images/group-photo-2024.jpg" alt="Our Team" class="team-photo">
 </div>
@@ -26,6 +38,12 @@ We value a diverse group of people who is passionate about our science and love 
         {% if person.website %}
         <a href="{{ person.website }}" target="_blank"><i class="fas fa-globe"></i> Website</a>
         {% endif %}
+<<<<<<< HEAD
+=======
+        {% if person.profile %}
+        <a href="{{ person.profile }}" target="_blank"><i class="fas fa-globe"></i> Profile</a>
+        {% endif %}
+>>>>>>> fab3904 (add team members)
         {% if person.linkedin %}
         <a href="{{ person.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
         {% endif %}
@@ -78,6 +96,10 @@ We value a diverse group of people who is passionate about our science and love 
 
 .team-member-info {
   flex: 1;
+<<<<<<< HEAD
+=======
+  max-width: calc(100% - 170px); /* Ensures the text area is wider */
+>>>>>>> fab3904 (add team members)
 }
 
 .team-member-info h3 {
