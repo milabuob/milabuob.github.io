@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-22T10:11:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Medical Imaging</title><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/milab_uob&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/company/milabuob&quot;}]}</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-03T11:41:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Medical Imaging</title><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/milab_uob&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/company/milabuob&quot;}]}</name></author><entry><title type="html">Measuring Oxygen Metabolism with Diffuse Optics</title><link href="http://localhost:4000/research/project-dcs/" rel="alternate" type="text/html" title="Measuring Oxygen Metabolism with Diffuse Optics" /><published>2024-05-01T00:00:00+01:00</published><updated>2024-05-01T00:00:00+01:00</updated><id>http://localhost:4000/research/project-dcs</id><content type="html" xml:base="http://localhost:4000/research/project-dcs/"><![CDATA[<h2 id="project-one-neuroimaging-innovations">Project One: Neuroimaging Innovations</h2>
+
+<figure>
+  <img src="/assets/images/neuroimaging_example.jpg" alt="Neuroimaging Example" />
+  <figcaption>Figure 1: Example of neuroimaging technique in use.</figcaption>
+</figure>
+
+<p>In this project, we are developing new neuroimaging techniques that allow for more precise mapping of brain activity. These innovations aim to improve the diagnosis and treatment of neurological disorders by providing clearer and more detailed images of the brain.</p>
+
+<h3 id="objectives">Objectives</h3>
+
+<ul>
+  <li>Develop advanced imaging techniques.</li>
+  <li>Improve diagnostic tools.</li>
+  <li>Enhance understanding of brain function.</li>
+</ul>
+
+<h3 id="methods">Methods</h3>
+
+<p>We use a variety of imaging tools and techniques, including:</p>
+
+<ul>
+  <li>MRI</li>
+  <li>fMRI</li>
+  <li>PET scans</li>
+</ul>
+
+<figure>
+  <img src="/assets/images/neuroimaging_example.jpg" alt="Neuroimaging Example" />
+  <figcaption>Figure 1: Example of neuroimaging technique in use.</figcaption>
+</figure>
+
+<h3 id="results">Results</h3>
+
+<p>Our preliminary results show significant improvements in image clarity and diagnostic accuracy. These findings suggest that our techniques could be highly beneficial in clinical settings.</p>
+
+<p><a href="https://example.com/project-one">Read more</a></p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/milab_uob&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/company/milabuob&quot;}]}</name></author><category term="research" /><summary type="html"><![CDATA[Exploring cutting-edge techniques in neuroimaging to enhance our understanding of brain function.]]></summary></entry></feed>

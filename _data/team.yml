@@ -1,9 +1,9 @@
 - name: Hamid Dehghani
   position: Professor
   photo: /assets/images/people/hdehghani.jpeg
-  bio: "Prof. Dehghani is interested in non-invasive imaging methods and measurement of physiological information 
-  from biological tissue. His research ranges from development of diffuse optical techniques, to computational tools 
-  assisting image guided interventions."
+  bio: "Prof. Dehghani is interested in a number of multi and cross disciplinary projects working on the development of physical
+  and computational sciences as applied to medical imaging. His research ranges from development of diffuse optical techniques, 
+  to computational tools assisting image guided interventions."
   #linkedin: https://www.linkedin.com/in/johndoe
   profile: https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/dehghani-hamid
   # github: https://github.com/johndoe 

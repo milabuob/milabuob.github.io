@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<article class="page-content">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  <div class="page-content">
+    {{ content }}
+  </div>
+</article>
+
+<style>
+.page-content {
+  padding: 20px; /* Add padding to the content */
+  max-width: 1200px; /* Set a maximum width for the content */
+  margin: 0 auto; /* Center the content */
+}
+
+.research-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+.research-line {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.research-content {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.research-content img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.research-content p {
+  flex: 1;
+}
+
+.research-projects {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.project-post {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.project-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.project-post h3 {
+  margin: 0;
+}
+
+.project-post h3 a {
+  text-decoration: none;
+}
+</style>

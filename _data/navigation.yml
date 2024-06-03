@@ -3,15 +3,15 @@ main:
   - title: "People"
     url: /people/
   - title: "Research"
-    url: /about/
+    url: /research/
   - title: "Publications"
-    url: /archive-layout-with-content/
-  - title: "Education"
-    url: /category-archive
-  - title: "Tools"
-    url: /edge-case/
-  - title: "Outreach"
-    url: /home/
+    url: /publications/
+#  - title: "Education"
+#    url: /category-archive
+#  - title: "Tools"
+#    url: /edge-case/
+#  - title: "Outreach"
+#    url: /home/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
