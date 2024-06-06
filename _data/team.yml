@@ -53,3 +53,12 @@
   #twitter: https://twitter.com/emilybrown
   #linkedin: https://www.linkedin.com/in/emilybrown
   #github: https://github.com/emilybrown
+
+- name: Robert Ward
+  position: PhD candidate
+  photo: /assets/images/people/rward.jpeg
+  bio: "Rob enjoys cross-disciplinary science and finding general solutions that emerge from specific cases. With a physics background,
+   Rob has worked on broadband NIRS systems, and the limitations faced in scalability. Recently, he has been undertaking projects on 
+   sampling design and optimization over non-typical spaces. Outside of university work, Rob enjoys playing in brass bands."
+  linkedin: https://www.linkedin.com/in/ward-robert/
+  github: https://github.com/ward-compsci
