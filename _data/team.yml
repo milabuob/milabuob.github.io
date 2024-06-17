@@ -54,6 +54,16 @@
   #linkedin: https://www.linkedin.com/in/emilybrown
   #github: https://github.com/emilybrown
 
+- name: Robin Dale
+  position: PhD candidate
+  photo: /assets/images/people/rdale.png
+  bio: "Robin is a final year PhD student focussing on deep-learning techniques for diffuse optical imaging. His work involves 
+  developing and deploying real-time imaging and analysis tools, primarily for high-speed, non-invasive breast cancer monitoring. 
+  He has also done some work in cognitive neuroscience, including a study on the neuro-correlates of complex motor skill acquisition 
+  using wearable fNIRS. In his spare time Robin is a professional juggler, and writes and performs live theatre shows about science 
+  and philosophy."
+  linkedin: www.linkedin.com/in/robin-dale-abb26b230
+  
 - name: Robert Ward
   position: PhD candidate
   photo: /assets/images/people/rward.jpeg
@@ -62,3 +72,4 @@
    sampling design and optimization over non-typical spaces. Outside of university work, Rob enjoys playing in brass bands."
   linkedin: https://www.linkedin.com/in/ward-robert/
   github: https://github.com/ward-compsci
+
