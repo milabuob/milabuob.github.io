@@ -32,14 +32,16 @@ taxonomy: news
   }
 </style>
 
+## Latest News
+
 <div class="news-container">
 
   <!-- Main News Content (Latest News) -->
   <div class="news-content">
-    ## Latest News
+    
     {% assign latest_news = site.posts | where: "categories", "news" | sort: "date" | reverse %}
     <ul>
-      {% for post in latest_news limit: 5 %}
+      {% for post in latest_news limit: 10 %}
         <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <br>
           <small>{{ post.date | date: "%B %-d, %Y" }}</small>
@@ -67,7 +69,6 @@ taxonomy: news
 ### News Archive by Year
 
 {% for year in posts_by_year %}
-### {{ year.name }} {#{{ year.name }}}
 <ul>
   {% for post in year.items %}
     <li>
