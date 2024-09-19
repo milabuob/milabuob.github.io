@@ -43,6 +43,8 @@ We are a research lab focused on developing optical imaging technologies and met
 
 - Qin, Y., Wu, J., Bulger, E., Cao, J., Dehghani, H., Shinn-Cunningham, B. & Kainerstorfer, J.M. (2024) *Optimizing spatial accuracy in electroencephalography reconstruction through diffuse optical tomography priors in the auditory cortex.* Biomed. Opt. Express, 15(8), 4859-4876 [Link](https://doi.org/10.1364/BOE.531576){:target="_blank"}
 
+- Dale, R., Zheng, B., Orihuela-Espina, F., Ross, N., O'Sullivan, T.D., Howard, S. & Dehghani, H. (2024) *Deep learning-enabled high-speed, multi-parameter diffuse optical tomography.* Journal of Biomedical Optics, 29(7), 076004 [Link](https://doi.org/10.1117/1.JBO.29.7.076004){:target="_blank"}
+
 [See More](/publications/)
 
 
