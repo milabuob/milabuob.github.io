@@ -12,11 +12,12 @@
   position: Associate Professor
   photo: /assets/images/people/rmesquita.jpeg
   bio: "Dr. Mesquita is interested in developing and combining instrumentation, computational methods, and biophysical modeling 
-  for functional neuroimaging, with a particular emphasis on diffuse optics. His research is focused on translating these
-  methods into clinical practice and utilising them to understand brain function."
+  to study brain function, with a particular emphasis on diffuse optics. His research covers a broad spectrum of applications, 
+  from fundamental aspects of neurovascular coupling to the clinical translation of these innovative methodologies."
   linkedin: https://www.linkedin.com/in/rickson-mesquita/
   website: https://rcmesquita.github.io 
   # github: https://github.com/johndoe 
+
 
 - name: Felipe Orihuela-Espina
   position: Associate Professor
