@@ -1,6 +1,6 @@
 ---
 title: "Your Post Title"
-date: YYYY-MM-DD
+date: 2024-09-19
 categories:
   - news
 ---

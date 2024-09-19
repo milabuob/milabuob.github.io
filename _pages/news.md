@@ -1,6 +1,8 @@
 ---
+layout: splash #category
 title: "News"
-layout: category
+classes: wide
 permalink: /news/
 taxonomy: news
 ---
+
