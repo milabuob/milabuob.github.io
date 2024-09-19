@@ -25,10 +25,19 @@ We are a research lab focused on developing optical imaging technologies and met
 
 {% include feature_row id = "feature_row" type = "center" %}
 
-<!--
+
 ## Latest News
-Link to blog
--->
+
+{% assign news_posts = site.posts | where: "categories", "news" | sort: "date" | reverse %}
+<ul>
+  {% for post in news_posts limit: 5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <br>
+      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
 
 ## Latest Publications from our Lab
 - Kazazian, K., Abdalmalak, A., Novi, S. L., Norton, L., Moulavi-Ardakani, R., Kolisnyk, M., Gofton, T. E., Mesquita, R. C., Owen, A. M. & Debicki, D. B. (2024). *Functional near-infrared spectroscopy: A novel tool for detecting consciousness after acute severe brain injury.* PNAS, 121(36), e2402723121. [Link](https://doi.org/10.1073/pnas.2402723121){:target="_blank"}

@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
 #  - title: "Education"
 #    url: /category-archive
 #  - title: "Tools"
