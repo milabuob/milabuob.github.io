@@ -32,7 +32,7 @@ taxonomy: news
   }
 </style>
 
-## Latest News
+## MILab News
 
 <div class="news-container">
 
@@ -65,16 +65,3 @@ taxonomy: news
 </div>
 
 ---
-
-### News Archive by Year
-
-{% for year in posts_by_year %}
-<ul>
-  {% for post in year.items %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <br>
-      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
-{% endfor %}
