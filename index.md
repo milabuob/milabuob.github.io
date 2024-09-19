@@ -23,9 +23,6 @@ header:
 
 We are a research lab focused on developing optical imaging technologies and methods that can be applied in Neuroscience and Medicine.
 
-{% include feature_row id = "feature_row" type = "center" %}
-
-
 ## Latest News
 
 {% assign news_posts = site.posts | where: "categories", "news" | sort: "date" | reverse %}
