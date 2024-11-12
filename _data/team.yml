@@ -92,3 +92,15 @@
   neuro activities. Also, he enjoys playing piano and occasional concerts outside the work."
   linkedin: https://www.linkedin.com/in/biao-zheng-3b2288129/
   github: https://github.com/church06
+
+- name: Joe Evans
+  position: Research Associate
+  photo: /assets/images/people/jevans.jpg
+  bio: "Joe's current research is centred around the application of neural networks in diffuse optical imaging. 
+  As a masters student Joe looked at the effects of changing features of the training set for UNET deblurring 
+  of fDOT bioreactor imaging and their implications on generalizability. Currently he is working on using 
+  similar methodology on retinotopic DOT imaging. He also enjoys bouldering in competitions and outside on 
+  the rock."
+  linkedin: https://www.linkedin.com/in/joe-evans-801b26168/
+  github: https://github.com/joeoliverevans
+  
