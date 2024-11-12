@@ -64,7 +64,16 @@
   using wearable fNIRS. In his spare time Robin is a professional juggler, and writes and performs live theatre shows about science 
   and philosophy."
   linkedin: https://www.linkedin.com/in/robin-dale-abb26b230/
-  
+
+- name: Ben Fry
+  position: PhD student
+  photo: /assets/images/people/bfry.jpg
+  bio: "Ben is a PhD student studying the instrumentation and data analysis algorithms for diffuse correlation spectroscopy and 
+  diffuse optical spectroscopy. With a background in mathematics and artificial intelligence, he is interested in the application of 
+  machine learning to improving optical parameters value recovery from DCS and DOS boundary data allowing the estimation of clinically 
+  relevant markers."
+  linkedin: https://www.linkedin.com/in/ben-fry-3aa23731a/
+
 - name: Robert Ward
   position: PhD candidate
   photo: /assets/images/people/rward.jpeg
