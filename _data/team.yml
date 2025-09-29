@@ -42,16 +42,6 @@
   linkedin: https://www.linkedin.com/in/smonterohdz/
   github: https://github.com/smonterohdz
 
-- name: Yaru Zhou
-  position: PhD student
-  photo: /assets/images/people/yzhou.jpeg
-  bio: "Yaru is a PhD student with a background in mathematics and artificial intelligence. Her research focuses on developing 
-  causal discovery methods for effective brain connectivity analysis using functional near-infrared spectroscopy (fNIRS). She also 
-  has broader interests in computational neuroscience, causality and artificial intelligence for biomedical challenges."
-  #twitter: https://twitter.com/emilybrown
-  linkedin: https://www.linkedin.com/in/yaru-zhou/?originalSubdomain=uk
-  #github: https://github.com/emilybrown
-
 - name: Robin Dale
   position: PhD candidate
   photo: /assets/images/people/rdale.png
@@ -62,6 +52,7 @@
   and philosophy."
   linkedin: https://www.linkedin.com/in/robin-dale-abb26b230/
 
+
 - name: Ben Fry
   position: PhD student
   photo: /assets/images/people/bfry.jpg
@@ -70,6 +61,15 @@
   machine learning to improving optical parameters value recovery from DCS and DOS boundary data allowing the estimation of clinically 
   relevant markers."
   linkedin: https://www.linkedin.com/in/ben-fry-3aa23731a/
+
+- name: Maisie Sanderson
+  position: PhD student
+  photo: /assets/images/people/rward.jpeg
+  bio: "Maisie is a PhD student focusing on the use of TD-fNIRS to study brain function and neuroplasticity. She completed her MSci in 
+  Physics at the University of Glasgow in 2025, with a dissertation on brain tumour imaging using diffuse optical imaging techniques. 
+  Her research interests lie at the intersection of computational modelling and optical neuroimaging, with the goal of advancing how 
+  brain activity is measured and understood in the context of rehabilitation."
+  linkedin: https://www.linkedin.com/in/maisie-sanderson-683a161ba
 
 - name: Robert Ward
   position: PhD candidate
@@ -90,14 +90,24 @@
   linkedin: https://www.linkedin.com/in/biao-zheng-3b2288129/
   github: https://github.com/church06
 
-- name: Joe Evans
-  position: Research Associate
-  photo: /assets/images/people/jevans.jpg
-  bio: "Joe's current research is centred around the application of neural networks in diffuse optical imaging. 
-  As a masters student Joe looked at the effects of changing features of the training set for UNET deblurring 
-  of fDOT bioreactor imaging and their implications on generalizability. Currently he is working on using 
-  similar methodology on retinotopic DOT imaging. He also enjoys bouldering in competitions and outside on 
-  the rock."
-  linkedin: https://www.linkedin.com/in/joe-evans-801b26168/
-  github: https://github.com/joeoliverevans
+- name: Yaru Zhou
+  position: PhD student
+  photo: /assets/images/people/yzhou.jpeg
+  bio: "Yaru is a PhD student with a background in mathematics and artificial intelligence. Her research focuses on developing 
+  causal discovery methods for effective brain connectivity analysis using functional near-infrared spectroscopy (fNIRS). She also 
+  has broader interests in computational neuroscience, causality and artificial intelligence for biomedical challenges."
+  #twitter: https://twitter.com/emilybrown
+  linkedin: https://www.linkedin.com/in/yaru-zhou/?originalSubdomain=uk
+  #github: https://github.com/emilybrown
+  
+- name: Hu Zhang
+  position: Visiting Research Scholar
+  photo: /assets/images/people/hzhang.png
+  bio: "Hu is a visiting PhD student developing deep-learning and generative-AI approaches to improve the accuracy of high-density 
+  diffuse optical tomography (HD-DOT). He contributes to the human brain retinotopic task within the NINDS-funded project U24NS136402, 
+  and has built an end-to-end fMRI-fNIRS domain-transfer pipeline. His future goal is to create an AI-based toolbox for robust multimodal 
+  fMRI–fNIRS cross-validation. In his free time, he enjoys cooking and watching movies."
+  #twitter: https://twitter.com/emilybrown
+  linkedin: https://www.linkedin.com/in/hu-zhang-33a14a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  #github: https://github.com/emilybrown
   
