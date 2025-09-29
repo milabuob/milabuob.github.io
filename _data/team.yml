@@ -42,17 +42,14 @@
   linkedin: https://www.linkedin.com/in/smonterohdz/
   github: https://github.com/smonterohdz
 
-- name: Jiaming Cao
-  position: Research Fellow
-  photo: /assets/images/people/jcao.jpeg
-  bio: "Jiaming's research mainly concerns with algorithmic improvements to enable high accuracy imaging using DOT and EEG. 
-  He is currently working on the BioSMART project, where he is developing a deep learning based method for fluorescence DOT imaging 
-  of bioreactors. He is also a maintainer of the NIRFASTer toolbox. Before joining MI lab, Jiaming obtained his PhD degree in 
-  Biomedical Engineering at Carnegie Mellon University, advised by Prof. Jana Kainerstorfer and Prof. Pulkit Grover.
-  Jiaming’s interest in optics and imaging also extends to photography, especially of the analog kind. He also likes to explore 
-  cooking different cuisines and is a guitar player."
+- name: Yaru Zhou
+  position: PhD student
+  photo: /assets/images/people/yzhou.jpeg
+  bio: "Yaru is a PhD student with a background in mathematics and artificial intelligence. Her research focuses on developing 
+  causal discovery methods for effective brain connectivity analysis using functional near-infrared spectroscopy (fNIRS). She also 
+  has broader interests in computational neuroscience, causality and artificial intelligence for biomedical challenges."
   #twitter: https://twitter.com/emilybrown
-  #linkedin: https://www.linkedin.com/in/emilybrown
+  linkedin: https://www.linkedin.com/in/yaru-zhou/?originalSubdomain=uk
   #github: https://github.com/emilybrown
 
 - name: Robin Dale
