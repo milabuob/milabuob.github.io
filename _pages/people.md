@@ -9,7 +9,7 @@ permalink: /people/
 <h1>Our Team </h1>
 
 <div class="team-photo">
-  <img src="/assets/images/group-photo-2024.jpg" alt="Our Team" class="team-photo">
+  <img src="/assets/images/group-photo-jun-2025.jpeg" alt="Our Team" class="team-photo">
 </div>
 
 We value a diverse group of people who is passionate about our science and love pursuing scientific discovery through a journey of learning. 
