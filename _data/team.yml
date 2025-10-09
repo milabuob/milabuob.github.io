@@ -62,13 +62,14 @@
   relevant markers."
   linkedin: https://www.linkedin.com/in/ben-fry-3aa23731a/
 
-- name: Fatima al Hajji
+- name: Fatima Zahra Al Hajji
   position: PhD student
   photo: /assets/images/people/falhajji.jpeg
-  bio: "Fatima Zahra Al Hajji is a PhD student at the University of Birmingham. She is currently working on building explainable, 
-  multimodal biomarkers using MRI, speech/language, and fNIRS to detect early neurodegeneration. Her work focuses on clinically useful, 
-  interpretable models and generalisation."
-
+  bio: "Fatima Zahra Al Hajji is a PhD student at the University of Birmingham with a background in Artificial intelligence and Computer 
+  Science. She is currently working on building explainable, multimodal biomarkers using MRI, speech/language, and fNIRS to detect early 
+  neurodegeneration. Her work focuses on clinically useful, interpretable models and generalisation. Outside of work, Fatima enjoys reading, 
+  running and badminton."
+  linkedin: https://www.linkedin.com/in/fatima-zahra-3271b01ab
 
 - name: Maisie Sanderson
   position: PhD student
